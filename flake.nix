@@ -1,7 +1,7 @@
 {
   description = "General Purpose Configuration for macOS and NixOS";
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-24.05";
     agenix.url = "github:ryantm/agenix";
     home-manager.url = "github:nix-community/home-manager";
     darwin = {
